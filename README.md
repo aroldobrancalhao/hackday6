@@ -1,7 +1,7 @@
 # hackday_6
 <h1 align="center"> 6°Hackday Comunidade DS Notebook Vencedor</h1> 
 
-<img align="center"  height="450" width="1000" src="https://github.com/aroldobrancalhao/hackday_6/img/competicao.jpg" >
+<img align="center"  height="450" width="1000" src="img/competicao.jpg" >
 
 
 # PREVISÃO DE PREÇOS DE PRODUTOS NO VAREJO DA MODA
