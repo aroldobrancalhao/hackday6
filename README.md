@@ -1,7 +1,7 @@
 # hackday_6
 <h1 align="center"> 6°Hackday Comunidade DS Notebook Vencedor</h1> 
 
-<img align="center"  height="450" width="1000" src="https://github.com/aroldobrancalhao/hackday_6/img/cilco_preco_produto.png" >
+<img align="center"  height="450" width="1000" src="https://github.com/aroldobrancalhao/hackday_6/img/competicao.jpg" >
 
 
 # PREVISÃO DE PREÇOS DE PRODUTOS NO VAREJO DA MODA
@@ -21,7 +21,7 @@ Na <b>terceira etapa</b> de precificação, a ser implantada com base no resulta
 
 O fluxograma ilustra o processo atual e introdução da nova etapa de precificação.
 
-![banner](img/EstrategiaPrecificacao.png)
+![banner](img/ciclo_preco_produto.png)
 
 ## 1.2. Objetivo
 
