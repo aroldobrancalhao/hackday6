@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> 6°Hackday Comunidade DS Notebook Vencedor</h1> 
 
 # PREVISÃO DE PREÇOS DE PRODUTOS NO VAREJO DA MODA
@@ -137,3 +138,6 @@ O presente trabalho conquistou o 1º lugar na competição Hackday da Comunidade
 1. Sobre o Método CRISP-DM: https://www.escoladnc.com.br/blog/data-science/metodologia-crisp-dm/
 2. site da comppetição no Kaggle: https://www.kaggle.com/competitions/product-price-predicition-20/overview
 
+=======
+# hackday6
+>>>>>>> 95b9251edffabcb77461922f2256874b414d6ef9
