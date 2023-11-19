@@ -1,10 +1,9 @@
 <h1 align="center"> 6°Hackday Comunidade DS Notebook Vencedor</h1> 
 
+# PREVISÃO DE PREÇOS DE PRODUTOS NO VAREJO DA MODA
+
 <img align="center"  height="450" width="1000" src="img/competicao.jpg" >
 
-
-# PREVISÃO DE PREÇOS DE PRODUTOS NO VAREJO DA MODA
-![banner](img/DeptoModa.jpg)
 
 
 
