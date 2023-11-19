@@ -1,7 +1,7 @@
 # hackday_6
-<h1 align="center"> Predição de vendas das lojas Rossmann</h1> 
+<h1 align="center"> 6°Hackday Comunidade DS Notebook Vencedor</h1> 
 
-<img align="center"  height="450" width="1000" src="https://github.com/aroldobrancalhao/hackday_6/img/cilco_preco_produto.jpg" >
+<img align="center"  height="450" width="1000" src="https://github.com/aroldobrancalhao/hackday_6/img/cilco_preco_produto.png" >
 
 
 ## 1.0 Contexto
