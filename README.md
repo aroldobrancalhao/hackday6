@@ -139,7 +139,3 @@ O presente trabalho conquistou o 1º lugar na competição Hackday da Comunidade
 1. Sobre o Método CRISP-DM: https://www.escoladnc.com.br/blog/data-science/metodologia-crisp-dm/
 2. site da comppetição no Kaggle: https://www.kaggle.com/competitions/product-price-predicition-20/overview
 
-## 7.0 Próximos passos:
-
-- Melhorar as métricas do modelo;
-- Utilizar métodos complementares ao Bot do Telegram para que o usuário possa realizar tal consulta;
