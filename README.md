@@ -98,15 +98,8 @@ A análise mostrou uma tendência a terem preços maiores os produtos em falta n
 ![banner](img/Insight_03.png)
 
 
-# 5. RESULTADOS
 
-
-
-# 6. CONCLUSÃO
-
-
-
-# 7. PRÓXIMOS PASSOS
+# 5. PRÓXIMOS PASSOS
 
 - Aprimorar a análise dos dados relacionados aos detalhes dos produtos
 - Implementar otimização baseada no estoque
@@ -115,7 +108,7 @@ A análise mostrou uma tendência a terem preços maiores os produtos em falta n
 
 
 
-# 8. EQUIPE DE DESENVOLVEDORES
+# 6. EQUIPE DE DESENVOLVEDORES
 
 O trabalho foi desenvolvido durante o 6º Hackday da Comunidade DS, competição de Ciência de Dados ocorrida nos dias 21.22/outubro/2023<sup>2</sup>.
 
